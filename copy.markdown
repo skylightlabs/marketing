@@ -29,7 +29,7 @@ converting your leads to paying customers, and many more key indicators.
 
 ### Home Profile
 Capture home dreams in one easy to view and easy to share webpage including
-floorplan, design choices, and construction timelines. All with a big
+floorplan, construction timelines, and photos of progress. All with a big
 call to action for leads to design their own dream home.
 
 ### Timeline
@@ -53,6 +53,11 @@ Moving the design center inventory online will give you the holy grail
 of online home design collaboration. Customers will be able to have the
 the help of their Facebook friends in choosing their flooring or hardware.
 This means more confident customers and more leads for you.
+
+### Design Choices in Home Profile
+Adding all design choices to the home profiles empowers your customers
+to share their complete vision and dream for their home. Friends will be
+able to see every detail of a home plan.
 
 ## Skylight Labs Team
 

@@ -5,8 +5,8 @@ Share the dream of building a home with home profiles that are
 designed to easily share and capture referrals.
 
 ### Generate Leads from Social Media
-When giving friends feedback on their home plans, leads can easily start
-designing their dream home with a click of a button.
+When seeing the progress of a friends new home on social media, leads can start
+designing their own dream home by simply entering their email address.
 
 ### Automated Lead Conversion
 Convert leads into sales by creating custom email marketing campaigns 

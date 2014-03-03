@@ -1,6 +1,6 @@
 # Skylight Labs
 
-### Capture the Excitement of Building a Home
+### Share the Excitement of Building a Home
 Share the dream of building a home with home profiles that are 
 designed to easily share and capture referrals.
 
